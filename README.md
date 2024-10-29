@@ -12,7 +12,6 @@ Este é um projeto que dado uma imagem de cartão de crédito é verificado se a
 - Python 3.7+
 - Conta do **Azure Cognitive Services** com a API Document Intelligences configurada
 - Blob Storage configurado no Azure.
-- Jupyter Notebook
 - Pacotes Python:
   - `azure.core`
   - `azure-ai-documentintelligence`
